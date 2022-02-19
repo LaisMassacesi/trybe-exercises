@@ -309,7 +309,7 @@ if(valorDeFabrica < 0){
     console.log('erro 221 - insira um valor válido')
 }
 
-
+//Rever exercicio dia4.1 
 
 const salarioBruto = 2000;
 const salarioLiquido = 0
